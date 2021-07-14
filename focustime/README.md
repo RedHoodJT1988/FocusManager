@@ -4,6 +4,8 @@ this app is to input the name of a task you want to focus on, click the plus but
 The timer will start and you can then start focusing on the task at hand. The timer will go off once it reaches zero. It will also vibrate your phone to signal
 time up. You have just finished focusing on your first task. Congrats.
 
+# Open Up the Expo Snack
+
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
 When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
