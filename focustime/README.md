@@ -1,4 +1,8 @@
-# Sample Snack app
+# Focus Manager
+This app was created as a way for me to stay focused on tasks for a given duration as well as learning some of the basics of React Native using Expo. The point of
+this app is to input the name of a task you want to focus on, click the plus button to add it, then select the amount of time you want to focus on that task for.
+The timer will start and you can then start focusing on the task at hand. The timer will go off once it reaches zero. It will also vibrate your phone to signal
+time up. You have just finished focusing on your first task. Congrats.
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
